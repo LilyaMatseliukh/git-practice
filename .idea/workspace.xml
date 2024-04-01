@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="373fea36-a9b5-47ef-9f4a-f178853f5638" name="Changes" comment="deleted text.txt" />
+    <list default="true" id="373fea36-a9b5-47ef-9f4a-f178853f5638" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +15,7 @@
   </component>
   <component name="ProjectId" id="2eUtPEdjGpcKMsLoFcwviFCWvv4" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
